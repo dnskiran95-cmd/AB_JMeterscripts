@@ -1,0 +1,5 @@
+AccountNumber,Password,FirstName,MiddleName,LastName,DOB,PhoneNumber,Mobile,Pincode,OfficeAddress,Email,PAN,CurrentAddress,Nameofcompany
+IQ10165,welcome,Vinila,Reddy,Rishi,01-01-1995,9902601825,9620294493,5161202,Banglore,vinilareddy01@gmail.com,FSD1256,Banglore,Innovative
+IQ10358,Sanju@143,Bhargav,,M,31-01-2000,9876543210,9876543210,5240099,Bangalore,DG@gmail.com,DYSOM9876B,Bangalore,MBV Solutions
+IQ10447,welcome,CHINNA,M,Reddy,09-06-2000,7896543789,7896543789,5243054,Pune,madhu@gmail.com,FTOPM7650A,Mumbai,DG Solutions
+IQ10353,Sanju@143,Vasu,M,Naidu,08-07-2002,9876543210,9876543210,5432001,Delhi,Sanjana@gmail.com,GYPM0986B,Bangalore,SS Solutions
